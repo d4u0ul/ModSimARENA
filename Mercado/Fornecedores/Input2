@@ -2,25 +2,25 @@
 	Sumário da Distribuição
 
 Distribuição:	Uniforme      
-Expressão:	UNIF(8, 17)
+Expressão:	UNIF(9, 17)
 Erro quadrático:	0.065306
 
 
 Teste de Kolmogorov-Smirnov
-  Teste Estatistico	= 0.183
+  Teste Estatistico	= 0.259
   P-value correspondente	> 0.15
 
 	Sumário dos Dados
 
 Número de Pontos de Dados	= 7
-Valor Min nos Dados       	= 8.5
+Valor Min nos Dados       	= 9.5
 Valor Max nos Dados       	= 17
-Média da Amostra          	= 12.4
-Desvio Padrão da Amostra       	= 3.29
+Média da Amostra          	= 13
+Desvio Padrão da Amostra       	= 3.24
 
 	Sumário do Histograma
 
-Intervalo do Histograma    	= 8 to 17
+Intervalo do Histograma    	= 9 to 17
 Número de Intervalos	= 5
 
 
@@ -29,27 +29,27 @@ Int.   No. de               Probabilidade           Cumulativa
 No.    Pts. de Dados   x        Densidade               Distribuição    
 ------------------------------------------------------------------
                             Função de Dados         Função de Dados    
-   0     2       9.80      0.286      0.200      0.286      0.200
-   1     2       11.6      0.286      0.200      0.571      0.400
-   2     0       13.4       0.00      0.200      0.571      0.600
-   3     1       15.2      0.143      0.200      0.714      0.800
+   0     2       10.6      0.286      0.200      0.286      0.200
+   1     2       12.2      0.286      0.200      0.571      0.400
+   2     0       13.8       0.00      0.200      0.571      0.600
+   3     1       15.4      0.143      0.200      0.714      0.800
    4     2       17.0      0.286      0.200       1.00       1.00
 
 
 =================================================================
 
 
-Arquivo de Dados: D:\AULAS_POLI\2021.3\ModSim\projSim\Mercado\Fornecedores\LimpezaSexta.txt
+Arquivo de Dados: D:\AULAS_POLI\2021.3\ModSim\projSim\Mercado\Fornecedores\CarnesQuarta.txt
 
 
 Função       Erro Quadrático
 -----------------------
 Uniforme        0.0653
-Beta           0.0719
-Exponencial    0.0793
-Erlang         0.0793
-Lognormal      0.0796
-Gama          0.0809
-Weibull        0.084
+Exponencial    0.0779
+Erlang         0.0779
+Gama          0.0787
+Lognormal      0.0794
+Weibull        0.0794
 Triangular     0.108
-Normal         0.12
+Normal         0.111
+Beta           0.16
