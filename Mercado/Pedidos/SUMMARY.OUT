@@ -1,0 +1,17 @@
+Ajustar Todas
+
+Documento:  D:\AULAS_POLI\2021.3\ModSim\projSim\Mercado\Pedidos\PedidosSab.txt
+Arquivo de Dados: D:\AULAS_POLI\2021.3\ModSim\projSim\Mercado\Pedidos\PedidosSab.txt
+
+
+Função       Erro Quadrático
+-----------------------
+Beta           0.00699
+Uniforme        0.0247
+Weibull        0.0603
+Gama          0.0614
+Exponencial    0.0662
+Normal         0.0668
+Erlang         0.0677
+Lognormal      0.0718
+Triangular     0.0864

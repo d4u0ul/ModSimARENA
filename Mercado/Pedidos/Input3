@@ -1,0 +1,63 @@
+
+	Sumário da Distribuição
+
+Distribuição:	Normal       
+Expressão:	NORM(13.9, 1.93)
+Erro quadrático:	0.005898
+
+Test do Chi-Quadrado
+  Número de intervalos	= 6
+  Graus de liberdade 	= 3
+  Teste Estatístico     	= 0.976
+  P-value correspondente	> 0.75
+
+Teste de Kolmogorov-Smirnov
+  Teste Estatistico	= 0.0887
+  P-value correspondente	> 0.15
+
+	Sumário dos Dados
+
+Número de Pontos de Dados	= 67
+Valor Min nos Dados       	= 10.3
+Valor Max nos Dados       	= 17.8
+Média da Amostra          	= 13.9
+Desvio Padrão da Amostra       	= 1.94
+
+	Sumário do Histograma
+
+Intervalo do Histograma    	= 10 to 18
+Número de Intervalos	= 8
+
+
+==================================================================
+Int.   No. de               Probabilidade           Cumulativa      
+No.    Pts. de Dados   x        Densidade               Distribuição    
+------------------------------------------------------------------
+                            Função de Dados         Função de Dados    
+   0     6       11.0     0.0896     0.0427     0.0896     0.0628
+   1     5       12.0     0.0746     0.0929      0.164      0.156
+   2    12       13.0      0.179      0.155      0.343      0.311
+   3    12       14.0      0.179      0.200      0.522      0.511
+   4    14       15.0      0.209      0.197      0.731      0.707
+   5     9       16.0      0.134      0.149      0.866      0.857
+   6     4       17.0     0.0597     0.0868      0.925      0.943
+   7     5       18.0     0.0746     0.0388       1.00      0.982
+
+
+=================================================================
+
+
+Arquivo de Dados: D:\AULAS_POLI\2021.3\ModSim\projSim\Mercado\Pedidos\PedidosQui.txt
+
+
+Função       Erro Quadrático
+-----------------------
+Normal         0.0059
+Weibull        0.0082
+Triangular     0.00944
+Beta           0.00975
+Gama          0.0151
+Erlang         0.0154
+Uniforme        0.0236
+Lognormal      0.0288
+Exponencial    0.0582

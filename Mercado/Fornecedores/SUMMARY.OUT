@@ -1,0 +1,17 @@
+Ajustar Todas
+
+Documento:  D:\AULAS_POLI\2021.3\ModSim\projSim\Mercado\Fornecedores\LimpezaSexta.txt
+Arquivo de Dados: D:\AULAS_POLI\2021.3\ModSim\projSim\Mercado\Fornecedores\LimpezaSexta.txt
+
+
+Função       Erro Quadrático
+-----------------------
+Uniforme        0.0653
+Beta           0.0719
+Exponencial    0.0793
+Erlang         0.0793
+Lognormal      0.0796
+Gama          0.0809
+Weibull        0.084
+Triangular     0.108
+Normal         0.12

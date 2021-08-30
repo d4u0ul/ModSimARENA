@@ -1,0 +1,55 @@
+
+	Sumário da Distribuição
+
+Distribuição:	Triangular   
+Expressão:	TRIA(10, 16.4, 17)
+Erro quadrático:	0.074184
+
+
+Teste de Kolmogorov-Smirnov
+  Teste Estatistico	= 0.23
+  P-value correspondente	> 0.15
+
+	Sumário dos Dados
+
+Número de Pontos de Dados	= 7
+Valor Min nos Dados       	= 10
+Valor Max nos Dados       	= 17
+Média da Amostra          	= 14.5
+Desvio Padrão da Amostra       	= 2.38
+
+	Sumário do Histograma
+
+Intervalo do Histograma    	= 10 to 17
+Número de Intervalos	= 5
+
+
+==================================================================
+Int.   No. de               Probabilidade           Cumulativa      
+No.    Pts. de Dados   x        Densidade               Distribuição    
+------------------------------------------------------------------
+                            Função de Dados         Função de Dados    
+   0     1       11.4      0.143     0.0437      0.143     0.0437
+   1     0       12.8       0.00      0.131      0.143      0.175
+   2     2       14.2      0.286      0.218      0.429      0.393
+   3     1       15.6      0.143      0.306      0.571      0.699
+   4     3       17.0      0.429      0.301       1.00       1.00
+
+
+=================================================================
+
+
+Arquivo de Dados: D:\AULAS_POLI\2021.3\ModSim\projSim\Mercado\Fornecedores\CereaisSegunda.txt
+
+
+Função       Erro Quadrático
+-----------------------
+Triangular     0.0742
+Normal         0.103
+Uniforme        0.106
+Beta           0.11
+Exponencial    0.2
+Erlang         0.2
+Weibull        0.236
+Gama          0.244
+Lognormal      0.302
